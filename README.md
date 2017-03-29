@@ -1,4 +1,4 @@
-#Keras Docset for Zeal/Dash
+# Keras Docset for Zeal/Dash
 
 ## Build
 ```bash
