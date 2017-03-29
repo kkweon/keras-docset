@@ -1,0 +1,19 @@
+{
+    "name": "Keras",
+    "package": "keras",
+    "index": "index.html",
+    "selectors": {
+        "h3": "Function",
+        "title": {
+            "type": "Module",
+            "regexp": " - Keras Documentation",
+            "replacement": ""
+        }
+    },
+    "ignore": [
+        "ABOUT", "Arguments"
+    ],
+    "icon32x32": "img/favicon.ico",
+    "allowJS": true,
+    "ExternalURL": ""
+}
