@@ -12,7 +12,6 @@
 go get -u github.com/technosophos/dashing
 ```
 
-
 ## Build
 ```bash
 bash wget_html.sh # download a html
@@ -22,7 +21,7 @@ bash build.sh # preprocess & build dash docset
 bash copy_docset.sh # copy the built docset to ~/.local/share/Zeal/Zeal/docsets/
 ```
 
-## File
+## Files
 ```text
 .
 ├── build.sh
@@ -30,6 +29,7 @@ bash copy_docset.sh # copy the built docset to ~/.local/share/Zeal/Zeal/docsets/
 ├── dashing.json
 ├── README.md
 ├── theme.css
+├── theme_extra.css
 └── wget_html.sh
 ```
 
