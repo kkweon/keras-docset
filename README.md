@@ -1,4 +1,9 @@
 # Keras Docset for Zeal/Dash
+* Linux/Windows: [Zeal](https://zealdocs.org/)
+* OSX: [Dash](https://kapeli.com/dash)
+
+## Screenshot
+![zeal](assets/keras.dense.zeal.png)
 
 ## Dependencies
 * You need to install [Dashing](https://github.com/technosophos/dashing)
