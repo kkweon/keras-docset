@@ -1,5 +1,13 @@
 # Keras Docset for Zeal/Dash
 
+## Dependencies
+* You need to install [Dashing](https://github.com/technosophos/dashing)
+
+```bash
+go get -u github.com/technosophos/dashing
+```
+
+
 ## Build
 ```bash
 bash wget_html.sh # download a html
@@ -11,7 +19,14 @@ bash copy_docset.sh # copy the built docset to ~/.local/share/Zeal/Zeal/docsets/
 ```
 
 ## File
-* `one_big.css`: all CSS files combined into one CSS
-* `preprocess.py` : run the preprocess
-
+```text
+.
+├── build.sh
+├── copy_docset.sh # check the path before you run this
+├── dashing.json
+├── README.md
+├── run_preprocess.sh
+├── theme.css
+└── wget_html.sh
+```
 
