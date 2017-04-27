@@ -6,7 +6,7 @@
 ![zeal](assets/keras.dense.zeal.png)
 
 ## FEED URL
-* Add `https://raw.githubusercontent.com/kkweon/keras-docset/master/Keras.xml` to the feed url in Dash/Zeal
+* Add `http://ocf.io/kkweon/docset/Keras.xml` to the feed url in Dash/Zeal
 
 ## Dependencies
 * You need to install [Dashing](https://github.com/technosophos/dashing)
