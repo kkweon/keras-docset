@@ -17,18 +17,24 @@ go get -u github.com/technosophos/dashing
 
 ## Build
 ```bash
-bash wget_html.sh # download a html
-bash build.sh # preprocess & build dash docset
-
-# Don't run unless the path is same
-bash copy_docset.sh # copy the built docset to ~/.local/share/Zeal/Zeal/docsets/
+make build
 ```
+
+## Install
+### Dash
+- There is a keras.docset inside `keras.io`
+- Preferences -> Docsets -> Add docset
+
+### Zeal
+- `keras.docset` to `~/.local/share/Zeal/Zeal/docsets/keras.docset`
+`
 
 ## Files
 ```text
 .
 ├── build.sh
 ├── copy_docset.sh # check the path before you run this
+├── Makefile
 ├── dashing.json
 ├── README.md
 ├── theme.css
