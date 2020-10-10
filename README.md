@@ -2,6 +2,8 @@
 * Linux/Windows: [Zeal](https://zealdocs.org/)
 * OSX: [Dash](https://kapeli.com/dash)
 
+Not being update
+
 ## Screenshot
 ![zeal](assets/keras.dense.zeal.png)
 
